@@ -21,10 +21,7 @@ Mariana Lombana y Rodian
    - 6.2 [Monitoreo y Análisis de Sistemas](#monitoreo-y-análisis-de-sistemas)  
    - 6.3 [Despliegue de Aplicaciones Web](#despliegue-de-aplicaciones-web)  
    - 6.4 [Dashboard Centralizado](#dashboard-centralizado)  
-7. [Estructura del Repositorio](#estructura-del-repositorio)  
-8. [Evidencias](#evidencias)  
-9. [Conclusiones](#conclusiones)  
-10. [Licencia](#licencia)  
+
 
 ---
 
